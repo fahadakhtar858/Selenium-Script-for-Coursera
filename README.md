@@ -1,7 +1,6 @@
 
-title: Selenium Script for Coursera
-created at: Wed Jun 01 2022 05:04:26 GMT+0000 (Coordinated Universal Time)
-updated at: Mon Jun 13 2022 11:26:56 GMT+0000 (Coordinated Universal Time)
+title: Selenium Script for Coursera and EDx
+
 ---
 
 # Selenium Script for Coursera
